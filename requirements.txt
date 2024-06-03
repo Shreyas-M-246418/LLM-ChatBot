@@ -1,0 +1,14 @@
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
+SpeechRecognition
+PyAudio
+beautifulsoup4
+requests
+tiktoken
+google-generativeai
+audio-recorder-streamlit
+streamlit_mic_recorder
+html5lib
